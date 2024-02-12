@@ -1,6 +1,6 @@
 # web-101
 
-Web Programlama Denemeleri
+WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs
 
 # License
 
