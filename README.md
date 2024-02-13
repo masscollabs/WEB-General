@@ -4,7 +4,13 @@ WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs
 
 # License
 
-Web Programlama Denemeleri
+WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs
+
+Copyright (C) 2024 Masscollabs Services
+
+Copyright (C) 2024 amassivus and contributors
+
+Copyright (C) 2024 procyberian and contributors
 
 Copyright (C) 2024 Mass Collaboration Labs and contributors
 
