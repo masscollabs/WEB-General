@@ -11,16 +11,7 @@ a {
   transition: .3s all ease; }
   a, a:hover {
     text-decoration: none !important; }
-.itemContainer{
-      float:left;
-      margin:45px;
-      padding: %100;
-      width: 200px;
-      height: 200px;
-      background: #ff5555;
-      border-radius:50px;
-      border-color: red;
-      }
+
 .content {
   height: 70vh; }
 
