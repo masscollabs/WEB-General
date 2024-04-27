@@ -8,6 +8,8 @@ Our new contributions are licensed under the terms of [AGPLv3-or-later](LICENSE)
 
 WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs
 
+Copyright (C) 2024 QB Networks
+
 Copyright (C) 2024 Masscollabs Services
 
 Copyright (C) 2024 amassivus and contributors
