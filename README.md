@@ -2,6 +2,8 @@
 
 WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs @godigitalist
 
+Our Bootstrap template is taken from https://colorlib.com/wp/template/bootstrap-footer-01/ and it is CC BY 3.0	
+
 Our new contributions are licensed under the terms of [AGPLv3-or-later](LICENSE)
 
 # License
