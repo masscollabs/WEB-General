@@ -6,7 +6,7 @@ Our new contributions are licensed under the terms of [AGPLv3-or-later](LICENSE)
 
 # License
 
-WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs
+WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs @godigitalist
 
 Copyright (C) 2024 QB Networks
 
