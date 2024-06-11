@@ -1,6 +1,6 @@
 # WEB General
 
-WEB General for [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz) [bilsege](https://bilsege.xyz)
+WEB General for [QB Networks](https://qbnetworks.xyz) [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz) [bilsege](https://bilsege.xyz)
 
 Our Bootstrap template is taken from https://colorlib.com/wp/template/bootstrap-footer-01/ and it is CC BY 3.0	
 
@@ -8,7 +8,7 @@ Our new contributions are licensed under the terms of [AGPLv3-or-later](LICENSE)
 
 # License
 
-WEB General for [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz) [bilsege](https://bilsege.xyz)
+WEB General for [QB Networks](https://qbnetworks.xyz) [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz) [bilsege](https://bilsege.xyz)
 
 Copyright (C) 2024 QB Networks
 
