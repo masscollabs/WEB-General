@@ -1,6 +1,6 @@
-# WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs @godigitalist
+# WEB General
 
-WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs @godigitalist
+WEB General for [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz)
 
 Our Bootstrap template is taken from https://colorlib.com/wp/template/bootstrap-footer-01/ and it is CC BY 3.0	
 
@@ -8,7 +8,7 @@ Our new contributions are licensed under the terms of [AGPLv3-or-later](LICENSE)
 
 # License
 
-WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs @godigitalist
+WEB General for [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz)
 
 Copyright (C) 2024 QB Networks
 
