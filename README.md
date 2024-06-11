@@ -1,6 +1,6 @@
-# WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs
+# WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs @godigitalist
 
-WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs
+WEB General for @masscollabs @amassivus @procyberian @masscollaborationlabs @godigitalist
 
 Our new contributions are licensed under the terms of [AGPLv3-or-later](LICENSE)
 
@@ -17,6 +17,8 @@ Copyright (C) 2024 amassivus and contributors
 Copyright (C) 2024 procyberian and contributors
 
 Copyright (C) 2024 Mass Collaboration Labs and contributors
+
+Copyright (C) 2024 godigitalist and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
