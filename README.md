@@ -1,6 +1,6 @@
 # WEB General
 
-WEB General for [QB Networks](https://qbnetworks.xyz) [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz) [bilsege](https://bilsege.xyz)
+WEB General for [QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) and [bilsege](https://github.com/bilsege) organizations.
 
 Our Bootstrap template is taken from https://colorlib.com/wp/template/bootstrap-footer-01/ and it is CC BY 3.0	
 
@@ -8,17 +8,17 @@ Our new contributions are licensed under the terms of [AGPLv3-or-later](LICENSE)
 
 # License
 
-WEB General for [QB Networks](https://qbnetworks.xyz) [Masscollabs](https://masscollabs.xyz) [amassivus](https://amassivus.xyz) [procyberian](https://procyberian.xyz) [Mass Collaboration Labs](https://masscollaborationlabs.xyz) [godigitalist](https://godigitalist.xyz) [bilsege](https://bilsege.xyz)
+WEB General for [QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) and [bilsege](https://github.com/bilsege) organizations.
 
 Copyright (C) 2024 QB Networks
 
 Copyright (C) 2024 Masscollabs Services
 
-Copyright (C) 2024 amassivus and contributors
-
-Copyright (C) 2024 procyberian and contributors
+Copyright (C) 2024 Procyberian and contributors
 
 Copyright (C) 2024 Mass Collaboration Labs and contributors
+
+Copyright (C) 2024 amassivus and contributors
 
 Copyright (C) 2024 godigitalist and contributors
 
